@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I'm currently working on Get-A-Name and Fallout-TTRPG-Web-App
+- I'm currently learning GO
+- I'm currently looking to join a team as a full-time developer
