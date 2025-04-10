@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm currently working on Get-A-Name and Fallout-TTRPG-Web-App
-- I'm currently learning GO
-- I'm currently looking to join a team as a full-time developer
+- Currently working on Get-A-Name and Fallout-TTRPG-Web-App
+- Currently learning GO
+- Currently looking to join a team as a full-time developer
+- Pronouns: He/Him
+- Fun Fact: I was first introduced to Linux because I installed malware on my laptop and the only way to keep using it was to install Ubuntu on it.
